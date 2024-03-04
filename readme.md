@@ -1,15 +1,3 @@
-## indice
-[Nombre](#Nombre)
-
-[Descripcion](#Descripcion)
-
-[Prerrequisitos](#Prerequisitos)
-
-[Pasos](#Pasos)
-
-[Datos](#Datos)
-
-
 ## Nombre 
 PROYECTO-C
 
