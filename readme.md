@@ -1,12 +1,13 @@
 ## Nombre 
--PROYECTO-C
+PROYECTO-C
 
 ## Descripcion
--Realizar una aplicación de conversor de monedas en el lenguaje de programación C
+Realizar una aplicación de conversor de monedas en el lenguaje de programación C
 
 ## Prerrequisitos
--Instalar c conel siguiente comando: sudo apt install build-essential
--Instalar gcc con el siguiente comando: sudo apt install gcc-9
+Instalar c conel siguiente comando: sudo apt install build-essential
+
+Instalar gcc con el siguiente comando: sudo apt install gcc-9
 
 ## Pasos
 1. Crear un arcivo *.c
@@ -15,5 +16,6 @@
 4. Ejecutar programa con el siguiente comando: ./conversor_monedas
 
 ## Datos
--Jesus Antonio Grajeda Lopez
--16004476@galileo.edu
+Jesus Antonio Grajeda Lopez
+
+16004476@galileo.edu
